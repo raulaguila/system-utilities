@@ -1,0 +1,8 @@
+{
+    "name" : "System Utilities",
+    "description" : "Label in the top panel that displays the percentage of system disk usage.",
+    "url" : "https://github.com/raulaguila/system-utilities",
+    "uuid" : "system-utilities@aguila.softwares.com",
+    "version" : 1.0,
+    "shell-version": ["3.34", "3.36", "3.38", "40", "41", "42", "43", "44"]
+}

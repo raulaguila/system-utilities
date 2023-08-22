@@ -1,1 +1,16 @@
-# system-utilities
+<h1 align="center">System Utilities</h1>
+
+<p>Gnome extension to help with system management and monitoring with docker </p>
+
+<ul>
+ <li>[ OK ] Show current disk usage on top panel.</li>
+ <li>[    ] Show current CPU usage on top panel.</li>
+ <li>[    ] Show current memory usage on top panel.</li>
+ <li>[    ] Manager docker containers.</li>
+</ul>
+
+<h1 align="center">Screenshot</h1>
+
+<p align="center">
+  <img src="screenshot/screenshot.png" />
+</p>
