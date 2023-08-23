@@ -14,3 +14,5 @@
 <p align="center">
   <img src="screenshot/screenshot.png" />
 </p>
+
+logs: journalctl -f -o cat /usr/bin/gnome-shell
