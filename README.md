@@ -1,6 +1,6 @@
 <h1 align="center">System Utilities</h1>
 
-<p>Gnome extension to help with system management and monitoring with docker </p>
+<p>Gnome extension to help with system management and monitoring with docker.</p>
 
 <ul>
  <li>[ OK ] Show current disk usage on top panel.</li>
@@ -15,4 +15,8 @@
   <img src="screenshot/screenshot.png" />
 </p>
 
-logs: journalctl -f -o cat /usr/bin/gnome-shell
+<h3>View logs: </h4>
+
+```bash
+journalctl -f -o cat /usr/bin/gnome-shell
+```
