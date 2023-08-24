@@ -4,8 +4,8 @@
 
 <ul>
  <li>[ OK ] Show current disk usage on top panel.</li>
- <li>[    ] Show current CPU usage on top panel.</li>
- <li>[    ] Show current memory usage on top panel.</li>
+ <li>[ OK ] Show current CPU usage on top panel.</li>
+ <li>[ OK ] Show current memory usage on top panel.</li>
  <li>[    ] Manager docker containers.</li>
 </ul>
 
